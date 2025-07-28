@@ -41,3 +41,18 @@
 		border-bg:					rgba(255,255,255,0.075),
 		border-bg-alt:				rgba(255,255,255,0.175)
 	);
+
+// Palette.
+$palette: (
+	bg:             #0a0f2c,  // very dark blue background
+	bg-alt:         #121639,  // slightly lighter dark blue for contrasts
+	bg-overlay:     rgba(10, 15, 44, 0.5),
+
+	fg:             #f8f9fa,  // very light grey text
+	fg-bold:        #ffffff,  // pure white for headings
+	fg-light:       rgba(248, 249, 250, 0.5),  // soft light text
+
+	border:         #3b82f6,  // soft blue (also used as accent color)
+	border-bg:      rgba(59, 130, 246, 0.075),
+	border-bg-alt:  rgba(59, 130, 246, 0.175)
+);
