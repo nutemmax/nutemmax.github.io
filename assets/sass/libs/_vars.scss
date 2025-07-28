@@ -44,15 +44,15 @@
 
 // Palette.
 $palette: (
-	bg:             #081143,  // very dark blue background
-	bg-alt:         #131a56,  // slightly lighter dark blue for contrasts
-	bg-overlay:     rgba(9, 18, 68, 0.5),
+	bg:             #ca0d9a,  // very dark blue background
+	bg-alt:         #f306cf,  // slightly lighter dark blue for contrasts
+	bg-overlay:     rgba(218, 16, 211, 0.5),
 
 	fg:             #f8f9fa,  // very light grey text
 	fg-bold:        #ffffff,  // pure white for headings
 	fg-light:       rgba(248, 249, 250, 0.5),  // soft light text
 
-	border:         #4d8ff9,  // soft blue (also used as accent color)
-	border-bg:      rgba(59, 130, 246, 0.075),
-	border-bg-alt:  rgba(59, 130, 246, 0.175)
+	border:         #09ed3e,  // soft blue (also used as accent color)
+	border-bg:      rgba(25, 220, 4, 0.075),
+	border-bg-alt:  rgba(9, 236, 54, 0.175)
 );
