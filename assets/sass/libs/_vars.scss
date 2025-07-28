@@ -30,7 +30,7 @@
 	);
 
 // Palette.
-	$palette: (
+	$palette_old: (
 		bg:							#1b1f22,
 		bg-alt:						#000000,
 		bg-overlay:					rgba(19,21,25,0.5),
@@ -44,15 +44,15 @@
 
 // Palette.
 $palette: (
-	bg:             #0a0f2c,  // very dark blue background
-	bg-alt:         #121639,  // slightly lighter dark blue for contrasts
-	bg-overlay:     rgba(10, 15, 44, 0.5),
+	bg:             #050b2b,  // very dark blue background
+	bg-alt:         #131a56,  // slightly lighter dark blue for contrasts
+	bg-overlay:     rgba(9, 18, 68, 0.5),
 
 	fg:             #f8f9fa,  // very light grey text
 	fg-bold:        #ffffff,  // pure white for headings
 	fg-light:       rgba(248, 249, 250, 0.5),  // soft light text
 
-	border:         #3b82f6,  // soft blue (also used as accent color)
+	border:         #4d8ff9,  // soft blue (also used as accent color)
 	border-bg:      rgba(59, 130, 246, 0.075),
 	border-bg-alt:  rgba(59, 130, 246, 0.175)
 );
